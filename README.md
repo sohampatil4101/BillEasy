@@ -47,3 +47,5 @@ project-root/
 └── middleware/
 └── auth.js
 
+
+er diagram-https://dbdiagram.io/d/66f2b3c6a0828f8aa6e4a2ae
